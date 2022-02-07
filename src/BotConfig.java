@@ -10,15 +10,15 @@ import java.util.HashMap;
 
 public class BotConfig {
     public static final String TOKEN = "5238157164:AAFPQk7rb1WEhDFVUKnlLmiPiIIdjro7XsE";
-    public static final String USERNAME = "Provaebot";
+    public static final String USERNAME = "Gloombot";
     /**
      * The nickname to add the bot with, e.g. @botfather
      */
-    public static final String ADDRESS = "@Provaebot";
+    public static final String ADDRESS = "@Gloomsdaybot";
     /**
      * If the bot receives this command, it will shut down
      */
-    private static final String KILLCOMMAND = "INSERTHERE";
+    private static final String KILLCOMMAND = "stoppati";
     
     /**
      * coordinates of the screen, starting at the upper left point
